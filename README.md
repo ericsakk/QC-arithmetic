@@ -1,2 +1,2 @@
 # QC-arithmetic
-Some Qiskit file for quantum computing
+Some Qiskit files for quantum computing
